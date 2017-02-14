@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCTemplate>
+	<Name>dahbino</Name>
+	<Class>Eldritch</Class>
+	<Level>50</Level>
+	<Race>Elf</Race>
+	<Realm>Hibernia</Realm>
+	<Notes></Notes>
+	<CrafterSkill>1001</CrafterSkill>
+	<Coop>False</Coop>
+	<SCItem>
+		<ActiveState>drop</ActiveState>
+		<Location>Left Wrist</Location>
+		<Realm>Hibernia</Realm>
+		<ItemName>Deathshadow Bracer</ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus>35</Bonus>
+		<ItemQuality>90</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>50</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Dexterity</Effect>
+				<Qua>99</Qua>
+				<Amount>13</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Intelligence</Effect>
+				<Qua>99</Qua>
+				<Amount>15</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Matter</Effect>
+				<Qua>99</Qua>
+				<Amount>8</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Hits</Effect>
+				<Qua>99</Qua>
+				<Amount>36</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Hits</Type>
+			</SLOT>
+		</DROPITEM>
+	</SCItem>
+	<SCItem>
+		<ActiveState>player</ActiveState>
+		<Location>Head</Location>
+		<Realm>Hibernia</Realm>
+		<ItemName></ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus></Bonus>
+		<ItemQuality>99</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>51</Level>
+		<PLAYERITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Constitution</Effect>
+				<Qua>99</Qua>
+				<Amount>16</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Dexterity</Effect>
+				<Qua>99</Qua>
+				<Amount>10</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Slash</Effect>
+				<Qua>99</Qua>
+				<Amount>9</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Thrust</Effect>
+				<Qua>99</Qua>
+				<Amount>9</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="4">
+				<Remakes>0</Remakes>
+				<Effect>Crush</Effect>
+				<Qua>99</Qua>
+				<Amount>9</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+		</PLAYERITEM>
+		<DROPITEM/>
+
+	</SCItem>
+	<SCItem>
+		<ActiveState>drop</ActiveState>
+		<Location>Neck</Location>
+		<Realm>Albion</Realm>
+		<ItemName>Sorcerous Deathwatcher Chain</ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus>35</Bonus>
+		<ItemQuality>91</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>50</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Constitution</Effect>
+				<Qua>99</Qua>
+				<Amount>10</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Intelligence</Effect>
+				<Qua>99</Qua>
+				<Amount>10</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Body</Effect>
+				<Qua>99</Qua>
+				<Amount>8</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Spirit</Effect>
+				<Qua>99</Qua>
+				<Amount>10</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+		</DROPITEM>
+	</SCItem>
+	<SCItem>
+		<ActiveState>player</ActiveState>
+		<Location>Ranged</Location>
+		<Realm></Realm>
+		<ItemName></ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus></Bonus>
+		<ItemQuality>94</ItemQuality>
+		<Equipped>0</Equipped>
+		<Level>51</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM/>
+
+	</SCItem>
+	<SCItem>
+		<ActiveState>drop</ActiveState>
+		<Location>Right Wrist</Location>
+		<Realm>Hibernia</Realm>
+		<ItemName>Deathshadow Bracer</ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus>35</Bonus>
+		<ItemQuality>90</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>50</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Dexterity</Effect>
+				<Qua>99</Qua>
+				<Amount>13</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Intelligence</Effect>
+				<Qua>99</Qua>
+				<Amount>15</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Matter</Effect>
+				<Qua>99</Qua>
+				<Amount>8</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Hits</Effect>
+				<Qua>99</Qua>
+				<Amount>36</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Hits</Type>
+			</SLOT>
+		</DROPITEM>
+	</SCItem>
+	<SCItem>
+		<ActiveState>player</ActiveState>
+		<Location>Left Hand</Location>
+		<Realm>Hibernia</Realm>
+		<ItemName></ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus></Bonus>
+		<ItemQuality>94</ItemQuality>
+		<Equipped>0</Equipped>
+		<Level>51</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM/>
+
+	</SCItem>
+	<SCItem>
+		<ActiveState>drop</ActiveState>
+		<Location>Jewel</Location>
+		<Realm>Albion</Realm>
+		<ItemName>Book of Arcane Dealings</ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus>25</Bonus>
+		<ItemQuality>90</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>50</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Cold</Effect>
+				<Qua>99</Qua>
+				<Amount>8</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Matter</Effect>
+				<Qua>99</Qua>
+				<Amount>8</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Heat</Effect>
+				<Qua>99</Qua>
+				<Amount>8</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Power</Effect>
+				<Qua>99</Qua>
+				<Amount>6</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Power</Type>
+			</SLOT>
+		</DROPITEM>
+	</SCItem>
+	<SCItem>
+		<ActiveState>player</ActiveState>
+		<Location>Arms</Location>
+		<Realm>Hibernia</Realm>
+		<ItemName></ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus></Bonus>
+		<ItemQuality>100</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>51</Level>
+		<PLAYERITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Constitution</Effect>
+				<Qua>99</Qua>
+				<Amount>10</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Dexterity</Effect>
+				<Qua>99</Qua>
+				<Amount>10</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Slash</Effect>
+				<Qua>99</Qua>
+				<Amount>11</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Thrust</Effect>
+				<Qua>99</Qua>
+				<Amount>11</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="4">
+				<Remakes>0</Remakes>
+				<Effect>Crush</Effect>
+				<Qua>99</Qua>
+				<Amount>11</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+		</PLAYERITEM>
+		<DROPITEM/>
+
+	</SCItem>
+	<SCItem>
+		<ActiveState>drop</ActiveState>
+		<Location>Right Ring</Location>
+		<Realm>Albion</Realm>
+		<ItemName>Frosted Silver Band</ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus>25</Bonus>
+		<ItemQuality>100</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>37</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Constitution</Effect>
+				<Qua>99</Qua>
+				<Amount>10</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Dexterity</Effect>
+				<Qua>99</Qua>
+				<Amount>9</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Cold</Effect>
+				<Qua>99</Qua>
+				<Amount>7</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Hits</Effect>
+				<Qua>99</Qua>
+				<Amount>36</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Hits</Type>
+			</SLOT>
+		</DROPITEM>
+	</SCItem>
+	<SCItem>
+		<ActiveState>drop</ActiveState>
+		<Location>Cloak</Location>
+		<Realm>Albion</Realm>
+		<ItemName>Defender's Cloak of the Clear Mind</ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus>35</Bonus>
+		<ItemQuality>100</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>47</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Constitution</Effect>
+				<Qua>99</Qua>
+				<Amount>15</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Dexterity</Effect>
+				<Qua>99</Qua>
+				<Amount>22</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Intelligence</Effect>
+				<Qua>99</Qua>
+				<Amount>22</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Energy</Effect>
+				<Qua>99</Qua>
+				<Amount>6</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+		</DROPITEM>
+	</SCItem>
+	<SCItem>
+		<ActiveState>player</ActiveState>
+		<Location>Feet</Location>
+		<Realm>Hibernia</Realm>
+		<ItemName></ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus></Bonus>
+		<ItemQuality>100</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>51</Level>
+		<PLAYERITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Hits</Effect>
+				<Qua>99</Qua>
+				<Amount>12</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Hits</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Mana</Effect>
+				<Qua>99</Qua>
+				<Amount>5</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Skill</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Energy</Effect>
+				<Qua>99</Qua>
+				<Amount>9</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Thrust</Effect>
+				<Qua>99</Qua>
+				<Amount>7</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="4">
+				<Remakes>0</Remakes>
+				<Effect>Body</Effect>
+				<Qua>99</Qua>
+				<Amount>7</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+		</PLAYERITEM>
+		<DROPITEM/>
+
+	</SCItem>
+	<SCItem>
+		<ActiveState>drop</ActiveState>
+		<Location>Chest</Location>
+		<Realm>Hibernia</Realm>
+		<ItemName>Moonstruck Mire Robe</ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus>35</Bonus>
+		<ItemQuality>100</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>50</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Constitution</Effect>
+				<Qua>99</Qua>
+				<Amount>15</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Intelligence</Effect>
+				<Qua>99</Qua>
+				<Amount>15</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Cold</Effect>
+				<Qua>99</Qua>
+				<Amount>10</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Spirit</Effect>
+				<Qua>99</Qua>
+				<Amount>10</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="4">
+				<Remakes>0</Remakes>
+				<Effect></Effect>
+				<Qua>99</Qua>
+				<Amount></Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type></Type>
+			</SLOT>
+			<SLOT Number="5">
+				<Remakes>0</Remakes>
+				<Effect></Effect>
+				<Qua>99</Qua>
+				<Amount></Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type></Type>
+			</SLOT>
+			<SLOT Number="6">
+				<Remakes>0</Remakes>
+				<Effect></Effect>
+				<Qua>99</Qua>
+				<Amount></Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type></Type>
+			</SLOT>
+			<SLOT Number="7">
+				<Remakes>0</Remakes>
+				<Effect></Effect>
+				<Qua>99</Qua>
+				<Amount></Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type></Type>
+			</SLOT>
+			<SLOT Number="8">
+				<Remakes>0</Remakes>
+				<Effect></Effect>
+				<Qua>99</Qua>
+				<Amount></Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type></Type>
+			</SLOT>
+			<SLOT Number="9">
+				<Remakes>0</Remakes>
+				<Effect></Effect>
+				<Qua>99</Qua>
+				<Amount></Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type></Type>
+			</SLOT>
+		</DROPITEM>
+	</SCItem>
+	<SCItem>
+		<ActiveState>player</ActiveState>
+		<Location>Right Hand</Location>
+		<Realm>Hibernia</Realm>
+		<ItemName></ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus></Bonus>
+		<ItemQuality>94</ItemQuality>
+		<Equipped>0</Equipped>
+		<Level>51</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM/>
+
+	</SCItem>
+	<SCItem>
+		<ActiveState>player</ActiveState>
+		<Location>Spare</Location>
+		<Realm></Realm>
+		<ItemName></ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus></Bonus>
+		<ItemQuality>94</ItemQuality>
+		<Equipped>0</Equipped>
+		<Level>51</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM/>
+
+	</SCItem>
+	<SCItem>
+		<ActiveState>player</ActiveState>
+		<Location>Hands</Location>
+		<Realm>Hibernia</Realm>
+		<ItemName></ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus></Bonus>
+		<ItemQuality>100</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>51</Level>
+		<PLAYERITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Hits</Effect>
+				<Qua>99</Qua>
+				<Amount>12</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Hits</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Power</Effect>
+				<Qua>99</Qua>
+				<Amount>9</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Power</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Body</Effect>
+				<Qua>99</Qua>
+				<Amount>5</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Heat</Effect>
+				<Qua>99</Qua>
+				<Amount>13</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="4">
+				<Remakes>0</Remakes>
+				<Effect>Energy</Effect>
+				<Qua>99</Qua>
+				<Amount>11</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+		</PLAYERITEM>
+		<DROPITEM/>
+
+	</SCItem>
+	<SCItem>
+		<ActiveState>player</ActiveState>
+		<Location>2 Handed</Location>
+		<Realm>Hibernia</Realm>
+		<ItemName></ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus></Bonus>
+		<ItemQuality>99</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>51</Level>
+		<PLAYERITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Light</Effect>
+				<Qua>99</Qua>
+				<Amount>50</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Focus</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Mana</Effect>
+				<Qua>99</Qua>
+				<Amount>50</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Focus</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Light</Effect>
+				<Qua>99</Qua>
+				<Amount>6</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Skill</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Mana</Effect>
+				<Qua>99</Qua>
+				<Amount>4</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Skill</Type>
+			</SLOT>
+		</PLAYERITEM>
+		<DROPITEM/>
+
+	</SCItem>
+	<SCItem>
+		<ActiveState>player</ActiveState>
+		<Location>Legs</Location>
+		<Realm>Hibernia</Realm>
+		<ItemName></ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus></Bonus>
+		<ItemQuality>99</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>51</Level>
+		<PLAYERITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Hits</Effect>
+				<Qua>99</Qua>
+				<Amount>20</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Hits</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Power</Effect>
+				<Qua>99</Qua>
+				<Amount>11</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Power</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Light</Effect>
+				<Qua>99</Qua>
+				<Amount>5</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Skill</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Cold</Effect>
+				<Qua>99</Qua>
+				<Amount>1</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="4">
+				<Remakes>0</Remakes>
+				<Effect>Matter</Effect>
+				<Qua>99</Qua>
+				<Amount>2</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+		</PLAYERITEM>
+		<DROPITEM/>
+
+	</SCItem>
+	<SCItem>
+		<ActiveState>drop</ActiveState>
+		<Location>Left Ring</Location>
+		<Realm>Albion</Realm>
+		<ItemName>Glimmer Spirit Band</ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus>20</Bonus>
+		<ItemQuality>89</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>42</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Quickness</Effect>
+				<Qua>99</Qua>
+				<Amount>6</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Body</Effect>
+				<Qua>99</Qua>
+				<Amount>6</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Spirit</Effect>
+				<Qua>99</Qua>
+				<Amount>6</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Heat</Effect>
+				<Qua>99</Qua>
+				<Amount>6</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+		</DROPITEM>
+	</SCItem>
+	<SCItem>
+		<ActiveState>drop</ActiveState>
+		<Location>Belt</Location>
+		<Realm>Albion</Realm>
+		<ItemName>Fiosrach Bann</ItemName>
+		<AFDPS></AFDPS>
+		<Speed></Speed>
+		<Bonus>35</Bonus>
+		<ItemQuality>95</ItemQuality>
+		<Equipped>1</Equipped>
+		<Level>50</Level>
+		<PLAYERITEM/>
+
+		<DROPITEM>
+			<SLOT Number="0">
+				<Remakes>0</Remakes>
+				<Effect>Intelligence</Effect>
+				<Qua>99</Qua>
+				<Amount>18</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Stat</Type>
+			</SLOT>
+			<SLOT Number="1">
+				<Remakes>0</Remakes>
+				<Effect>Hits</Effect>
+				<Qua>99</Qua>
+				<Amount>48</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Hits</Type>
+			</SLOT>
+			<SLOT Number="2">
+				<Remakes>0</Remakes>
+				<Effect>Crush</Effect>
+				<Qua>99</Qua>
+				<Amount>6</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+			<SLOT Number="3">
+				<Remakes>0</Remakes>
+				<Effect>Slash</Effect>
+				<Qua>99</Qua>
+				<Amount>6</Amount>
+				<Done>0</Done>
+				<Time>0</Time>
+				<Type>Resist</Type>
+			</SLOT>
+		</DROPITEM>
+	</SCItem>
+</SCTemplate>
